@@ -24,9 +24,9 @@ https://www.polyml.org/download.html
 
 ### 3. Run a program
 Navigate to the desired assignment folder, open an interpreter window and type:
-'''ML
+```ML
 use "filename";
-'''
+```
 And then use the derired functions
 
 ## 📜 License
