@@ -1,4 +1,4 @@
-# 🧠 Computer Programming 2
+# 🧠 Functional Programming
 
 This repository contains assignments, and in-class exercises for the **Funtional Programming** class a.y. 2024-2025 at University of Trento by **Prof. Gabriel Kuper**  
 It includes several ML programs focusing on functional features, basic ML structure, data structures and basic algorithms.
